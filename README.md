@@ -15,5 +15,9 @@ An exhaustive, data-driven analysis of the Project Management tooling landscape 
 ---
 
 ## 📂 Project 02: Positioning & Messaging Framework
-*(Coming soon...)*
+A deep-dive positioning teardown of Freshdesk using April Dunford's 5-Component Canvas, uncovering how their "Agentic AI Platform" messaging clashes with market reality, and proposing a data-driven repositioning strategy.
+
+**Core Deliverables:**
+* **[📄 Positioning Audit & Canvas (Notion Version)](./Project_02_Positioning_Messaging/Freshdesk_Notion_Canvas.md):** The visual layout mapping the 4 critical messaging gaps and the new framework.
+* **[📝 Deep-Dive Analysis Article](./Project_02_Positioning_Messaging/Freshdesk_Positioning_Article.md):** The comprehensive 1,500-word breakdown explaining *why* Freshdesk's current "anti-Zendesk" positioning is a fragile strategy, and how targeting the "Grateful Upgrader" creates a durable moat.
 
