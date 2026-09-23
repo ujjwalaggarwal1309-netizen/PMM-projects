@@ -23,3 +23,12 @@ A deep-dive positioning teardown of Freshdesk using April Dunford's 5-Component 
 * **[📄 Read the Raw Markdown Canvas](./Project_02_Positioning_Messaging/Freshdesk_Notion_Canvas.md):** The raw text layout mapping the 4 critical messaging gaps and the new framework.
 * **[📝 Deep-Dive Analysis Article](./Project_02_Positioning_Messaging/Freshdesk_Positioning_Article.md):** The comprehensive 1,500-word breakdown explaining *why* Freshdesk's current "anti-Zendesk" positioning is a fragile strategy, and how targeting the "Grateful Upgrader" creates a durable moat.
 
+---
+
+## 📂 Project 03: Product Teardown (PMM Lens)
+A behavioral marketing teardown of Loom, analyzing how they invented the "async video" category. This project audits their advertising, behavioral onboarding emails, PLG pricing strategy, and proposes a strategic fix to their biggest retention risk.
+
+**Core Deliverables:**
+* **[📄 Teardown Canvas (Notion Version)](./Project_03_Product_Teardown/Loom_Notion_Teardown.md):** The visual layout mapping the GTM breakdown with screenshot placeholders.
+* **[📝 2,000-Word Medium Article](./Project_03_Product_Teardown/Loom_Teardown_Article.md):** The deep-dive analysis covering the 5-second test, ad authenticity, the genius of the 5-minute cap, and the "async clutter" onboarding fix.
+
