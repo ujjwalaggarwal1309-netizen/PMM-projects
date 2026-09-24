@@ -52,6 +52,6 @@ A data-driven buyer persona for Zerodha, targeting the "First-Time Salaried Inve
 
 **Core Deliverables:**
 * **[🖥️ View the Live Notion Portfolio Piece](https://gold-street-679.notion.site/Project-05-Customer-Persona-ICP-Research-3e55df56ccbd80e99b14e9680714c957):** The live interactive visual persona document.
+* **[📊 Download the Presentation PDF](./Project_05_Customer_Persona/Zerodha_Persona_Presentation.pdf):** The recruiter-ready export of the persona research.
 * **[📄 Read the Raw Markdown Persona](./Project_05_Customer_Persona/Zerodha_Persona_Research.md):** The raw text layout mapping the verbatim quotes and triggers.
-
 
