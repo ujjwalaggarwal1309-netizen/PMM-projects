@@ -31,6 +31,7 @@ A behavioral marketing teardown of Loom, analyzing how they invented the "async 
 
 **Core Deliverables:**
 * **[🖥️ View the Live Notion Portfolio Piece](https://gold-street-679.notion.site/Project-03-Loom-Teardown-3e45df56ccbd80039785dd0fcc4d4af7):** The visual layout mapping the GTM breakdown with screenshots.
+* **[📊 Download the Presentation PDF](./Project_03_Product_Teardown/Loom_Teardown_Presentation.pdf):** The recruiter-ready export of the visual teardown.
 * **[📄 Read the Raw Markdown Canvas](./Project_03_Product_Teardown/Loom_Notion_Teardown.md):** The raw text layout mapping the GTM breakdown.
 * **[📝 2,000-Word Medium Article](./Project_03_Product_Teardown/Loom_Teardown_Article.md):** The deep-dive analysis covering the 5-second test, ad authenticity, the genius of the 5-minute cap, and the "async clutter" onboarding fix.
 
