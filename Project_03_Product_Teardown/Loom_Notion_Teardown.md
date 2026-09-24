@@ -1,7 +1,7 @@
 ﻿> ðŸ’¡ **Project 03: Product Teardown (PMM Lens)**
 > **Product Analyzed:** Loom (Atlassian)
 > **Goal:** Deep analysis of GTM strategy, positioning, and behavioral onboarding
-> **Author:** Ujjwal Aggarwal | **Date:** November 2026
+> **Author:** Ujjwal Aggarwal | **Date:** September 2026
 
 # Loom: GTM & Positioning Teardown
 
@@ -75,3 +75,4 @@ The free tier allows unlimited team members (driving viral internal growth) but 
 
 ---
 *Methodology: Teardown conducted via active product usage, Google Ads audit, and G2/Reddit sentiment analysis in late 2026.*
+
