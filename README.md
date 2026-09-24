@@ -9,6 +9,7 @@ An exhaustive, data-driven analysis of the Project Management tooling landscape 
 
 **Core Deliverables:**
 * **[🖥️ View the Live Notion Portfolio Piece](https://gold-street-679.notion.site/Competitive-Analysis-Document-3e05df56ccbd80b88d9ad9e31a875199):** The fully formatted, visual executive summary.
+* **[📊 Download the Presentation PDF](./Project_01_Competitive_Analysis/Competitive_Analysis_Document.pdf):** The recruiter-ready export of the competitive analysis.
 * **[📄 Read the Raw Markdown](./Project_01_Competitive_Analysis/Competitive_Analysis_Strategy.md):** The strategic markdown covering methodology, positioning maps, deep dives, and battlecards.
 * **[📝 Thought Leadership Article](./Project_01_Competitive_Analysis/Thought_Leadership_Article.md):** A 1,000-word Medium article draft translating the competitive insights into an external-facing narrative about PM tool bloat.
 
@@ -29,7 +30,7 @@ A deep-dive positioning teardown of Freshdesk using April Dunford's 5-Component 
 A behavioral marketing teardown of Loom, analyzing how they invented the "async video" category. This project audits their advertising, behavioral onboarding emails, PLG pricing strategy, and proposes a strategic fix to their biggest retention risk.
 
 **Core Deliverables:**
-* **[🖥️ View the Live Notion Portfolio Piece](https://gold-street-679.notion.site/Project-03-Loom-Teardown-3e45df56ccbd80039785dd0fcc4d4af7):** The live visual layout mapping the GTM breakdown with annotated screenshots.
-* **[📄 Read the Raw Markdown Canvas](./Project_03_Product_Teardown/Loom_Notion_Teardown.md):** The original markdown structure of the teardown.
+* **[🖥️ View the Live Notion Portfolio Piece](https://gold-street-679.notion.site/Project-03-Loom-Teardown-3e45df56ccbd80039785dd0fcc4d4af7):** The visual layout mapping the GTM breakdown with screenshots.
+* **[📄 Read the Raw Markdown Canvas](./Project_03_Product_Teardown/Loom_Notion_Teardown.md):** The raw text layout mapping the GTM breakdown.
 * **[📝 2,000-Word Medium Article](./Project_03_Product_Teardown/Loom_Teardown_Article.md):** The deep-dive analysis covering the 5-second test, ad authenticity, the genius of the 5-minute cap, and the "async clutter" onboarding fix.
 
