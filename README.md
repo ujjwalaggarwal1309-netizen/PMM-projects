@@ -41,6 +41,7 @@ A behavioral marketing teardown of Loom, analyzing how they invented the "async 
 A comprehensive, realistic GTM plan for a simulated product launch: "Figma Canvas," a simplified design tool for B2B marketers. This covers market context, extremely specific ICP narratives, positioning strategy, and multi-channel launch tactics.
 
 **Core Deliverables:**
-* **[🖥️ View the Live Notion Portfolio Piece](https://app.notion.com/p/3e55df56ccbd809f94f5cd09ff95ac42):** The live GTM strategy document.
+* **[🖥️ View the Live Notion Portfolio Piece](https://gold-street-679.notion.site/Project-04-GTM-Launch-Plan-3e55df56ccbd809f94f5cd09ff95ac42):** The live GTM strategy document.
+* **[📊 Download the Presentation PDF](./Project_04_GTM_Launch_Plan/Figma_Canvas_GTM_Presentation.pdf):** The recruiter-ready export of the GTM Launch Plan.
 * **[📄 Read the Raw Markdown Plan](./Project_04_GTM_Launch_Plan/Figma_Canvas_GTM_Plan.md):** The complete text of the launch strategy, timeline, and metrics.
 
