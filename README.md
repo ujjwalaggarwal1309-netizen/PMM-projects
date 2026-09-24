@@ -29,6 +29,7 @@ A deep-dive positioning teardown of Freshdesk using April Dunford's 5-Component 
 A behavioral marketing teardown of Loom, analyzing how they invented the "async video" category. This project audits their advertising, behavioral onboarding emails, PLG pricing strategy, and proposes a strategic fix to their biggest retention risk.
 
 **Core Deliverables:**
-* **[📄 Teardown Canvas (Notion Version)](./Project_03_Product_Teardown/Loom_Notion_Teardown.md):** The visual layout mapping the GTM breakdown with screenshot placeholders.
+* **[🖥️ View the Live Notion Portfolio Piece](https://gold-street-679.notion.site/Project-03-Loom-Teardown-3e45df56ccbd80039785dd0fcc4d4af7):** The live visual layout mapping the GTM breakdown with annotated screenshots.
+* **[📄 Read the Raw Markdown Canvas](./Project_03_Product_Teardown/Loom_Notion_Teardown.md):** The original markdown structure of the teardown.
 * **[📝 2,000-Word Medium Article](./Project_03_Product_Teardown/Loom_Teardown_Article.md):** The deep-dive analysis covering the 5-second test, ad authenticity, the genius of the 5-minute cap, and the "async clutter" onboarding fix.
 
