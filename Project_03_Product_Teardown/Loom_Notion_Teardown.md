@@ -1,18 +1,18 @@
-> 💡 **Project 03: Product Teardown (PMM Lens)**
+﻿> ðŸ’¡ **Project 03: Product Teardown (PMM Lens)**
 > **Product Analyzed:** Loom (Atlassian)
 > **Goal:** Deep analysis of GTM strategy, positioning, and behavioral onboarding
 > **Author:** Ujjwal Aggarwal | **Date:** November 2026
 
 # Loom: GTM & Positioning Teardown
 
-> 🎯 **Executive Summary**
+> ðŸŽ¯ **Executive Summary**
 > Loom is a masterclass in behavioral marketing. They didn't just sell a tool; they had to invent and normalize a completely new professional behavior ("async video"). This teardown breaks down how their unpolished ads, behavior-triggered onboarding, and aggressive PLG paywalls successfully trained the corporate world to stop typing and start talking.
 
 ---
 
-## 🔍 1. The 5-Second Homepage Test
+## ðŸ” 1. The 5-Second Homepage Test
 
-> 🖼️ *[Insert annotated screenshot of Loom's hero section with looping video]*
+> ðŸ–¼ï¸ *[Insert annotated screenshot of Loom's hero section with looping video]*
 
 **The PMM Analysis:**
 Most SaaS companies rely on text to explain their value. Loom relies on visual proof. The looping hero video answers "what is this?" in three seconds. 
@@ -21,9 +21,9 @@ Most SaaS companies rely on text to explain their value. Loom relies on visual p
 
 ---
 
-## 📢 2. Advertising Strategy: Authenticity Over Polish
+## ðŸ“¢ 2. Advertising Strategy: Authenticity Over Polish
 
-> 🖼️ *[Insert screenshot of a Loom Meta Ad featuring a user in a home office]*
+> ðŸ–¼ï¸ *[Insert screenshot of a Loom Google Ad featuring a user in a home office]*
 
 **The PMM Analysis:**
 Loom runs ads that look like user-generated content. You rarely see corporate gloss; you see a real person in a messy home office saying, "Stop typing that massive email."
@@ -32,9 +32,9 @@ Loom runs ads that look like user-generated content. You rarely see corporate gl
 
 ---
 
-## 🧠 3. Onboarding: The Psychology of Momentum
+## ðŸ§  3. Onboarding: The Psychology of Momentum
 
-> 🖼️ *[Insert screenshot of Loom's Welcome Email]*
+> ðŸ–¼ï¸ *[Insert screenshot of Loom's Welcome Email]*
 
 **The PMM Analysis:**
 The onboarding sequence is ruthlessly optimized for one behavior. 
@@ -43,9 +43,9 @@ The onboarding sequence is ruthlessly optimized for one behavior.
 
 ---
 
-## 💰 4. Pricing: The PLG Engine
+## ðŸ’° 4. Pricing: The PLG Engine
 
-> 🖼️ *[Insert screenshot of Loom's Pricing Page]*
+> ðŸ–¼ï¸ *[Insert screenshot of Loom's Pricing Page]*
 
 **The PMM Analysis:**
 The free tier allows unlimited team members (driving viral internal growth) but imposes a hard cap of 25 videos and a 5-minute limit per video.
@@ -54,9 +54,9 @@ The free tier allows unlimited team members (driving viral internal growth) but 
 
 ---
 
-## ⭐ 5. What They Do Brilliantly
+## â­ 5. What They Do Brilliantly
 
-> 💡 **The 5-Minute Cap Strategy**
+> ðŸ’¡ **The 5-Minute Cap Strategy**
 > Users constantly complain on Reddit about the 5-minute limit on free videos. But from a PMM perspective, it is absolute genius. 
 > 
 > **1. It forces the right behavior:** It trains users to be concise. If free users could record 45-minute rambling videos, the recipients would hate the product. 
@@ -64,14 +64,14 @@ The free tier allows unlimited team members (driving viral internal growth) but 
 
 ---
 
-## 🛑 6. What I Would Change
+## ðŸ›‘ 6. What I Would Change
 
-> ⚠️ **Solving "Async Clutter"**
+> âš ï¸ **Solving "Async Clutter"**
 > The biggest emerging churn risk for Loom is "noise fatigue." Teams are waking up to Slack inboxes filled with 15 different Loom links, creating a new type of corporate anxiety.
 > 
 > **The Fix:** The onboarding emails only teach creation, not curation. I would change the Day 3 onboarding email. Instead of "record another video," the subject should be: *"How to stop your videos from getting lost."* 
 > 
-> By teaching users how to use Tags, Folders, and naming conventions early, Loom transitions from a "recording tool" to a "company knowledge base"—deepening enterprise stickiness before the user even feels the pain of clutter.
+> By teaching users how to use Tags, Folders, and naming conventions early, Loom transitions from a "recording tool" to a "company knowledge base"â€”deepening enterprise stickiness before the user even feels the pain of clutter.
 
 ---
-*Methodology: Teardown conducted via active product usage, Meta Ads Library audit, and G2/Reddit sentiment analysis in late 2026.*
+*Methodology: Teardown conducted via active product usage, Google Ads audit, and G2/Reddit sentiment analysis in late 2026.*

@@ -1,4 +1,4 @@
-# Product Teardown: Why Loom's Go-To-Market Strategy is a Masterclass in Behavioral Marketing
+﻿# Product Teardown: Why Loom's Go-To-Market Strategy is a Masterclass in Behavioral Marketing
 
 Loom is an asynchronous video messaging tool designed for knowledge workers who are drowning in meetings and long-winded emails. They target sales professionals, project managers, and founders who want to communicate complex ideas quickly without the logistical nightmare of scheduling a live sync. The company did not just build a software product. They had to invent and normalize an entirely new professional behavior.
 
@@ -16,7 +16,7 @@ The emotion they lead with is relief. They tap into the universal corporate exha
 
 ## 2. Advertising Strategy: Authenticity Over Polish
 
-I audited Loom's active campaigns in the Meta Ads Library and their YouTube presence. Their advertising strategy reveals a deep understanding of their core buyer.
+I audited Loom's active campaigns in the Google Ads Library and their YouTube presence. Their advertising strategy reveals a deep understanding of their core buyer.
 
 Their primary ad hook relies on a pattern interrupt. In a feed filled with highly polished, heavily edited B2B software ads, Loom runs ads that look like user-generated content. A typical ad features a real person sitting in a slightly messy home office, staring directly into a webcam, and saying, "Stop typing that massive email." 
 
@@ -70,7 +70,7 @@ Loom took a product constraint and weaponized it into both a behavioral training
 
 ## 7. What I Would Change: Solving the "Async Clutter" Problem
 
-While Loom’s acquisition strategy is brilliant, their retention messaging has a glaring blind spot. 
+While Loomâ€™s acquisition strategy is brilliant, their retention messaging has a glaring blind spot. 
 
 The biggest emerging complaint from power users on Reddit and G2 is "Notification and Noise Fatigue." Teams are adopting Loom so successfully that users are now waking up to a Slack inbox filled with 15 different Loom links. Without proper context or organization, replacing a wall of text with a wall of video thumbnails creates a new type of corporate anxiety.
 
