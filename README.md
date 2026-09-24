@@ -51,6 +51,7 @@ A comprehensive, realistic GTM plan for a simulated product launch: "Figma Canva
 A data-driven buyer persona for Zerodha, targeting the "First-Time Salaried Investor." This document abandons marketing guesswork and builds the entire persona strictly using verbatim quotes scraped from r/IndiaInvestments and app reviews to map out the customer's "Aha!" moment and friction points.
 
 **Core Deliverables:**
-* **[🖥️ View the Live Notion Portfolio Piece](https://app.notion.com/p/3e55df56ccbd80e99b14e9680714c957):** The live interactive visual persona document.
+* **[🖥️ View the Live Notion Portfolio Piece](https://gold-street-679.notion.site/Project-05-Customer-Persona-ICP-Research-3e55df56ccbd80e99b14e9680714c957):** The live interactive visual persona document.
 * **[📄 Read the Raw Markdown Persona](./Project_05_Customer_Persona/Zerodha_Persona_Research.md):** The raw text layout mapping the verbatim quotes and triggers.
+
 
